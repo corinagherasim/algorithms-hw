@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652168696 source:c:\users\corina\documents\facultate\programarea calculatoarelor\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
